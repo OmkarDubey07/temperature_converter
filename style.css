@@ -1,0 +1,32 @@
+body{
+    padding: 50px 100px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#container{
+    text-align: center;
+    background-color: #151515;
+    padding: 50px;
+    border-radius: 10px;
+}
+.input{
+    display: inline-block;
+}
+
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
+}
+label{
+    font-size: 22px;
+    font-weight: bold;
+    color: #fffefd;
+}
